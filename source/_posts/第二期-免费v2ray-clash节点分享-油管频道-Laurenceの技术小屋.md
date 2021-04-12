@@ -20,8 +20,9 @@ tags:
 
 * * *
 
+https://wws.lanzous.com/ijlWonp7fgb
 
-https://wws.lanzous.com/ijlWonp7fgb密码:86g2
+密码:86g2
 
 本期节点测速详情(仅供参考)
 ![20210406-143058](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210406-143058.png)
