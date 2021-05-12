@@ -24,9 +24,9 @@ tags:
 
 节点下载地址2:  https://445600.ml/ytb/05.txt
 
-本期节点测速详情(仅供参考)
+本期节点测速详情(仅供参考)--订阅中删除了一些不能用的节点
 
-
+[![My8SQ2KixLfbNPn.png](https://z.photos/images/2021/05/12/My8SQ2KixLfbNPn.png)](https://z.photos/image/ep5s)
 
 
 * * *
