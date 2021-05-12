@@ -7,6 +7,7 @@ tags:
 
 #### 前言:
 1、注册heroku,注册也十分的简单,只需要一个邮箱即可,这里推荐使用域名邮箱.
+注意:**注册时需要挂代理**不然打不开验证码
 2、推荐使用`UUID`生成器，不要随意自己编一个`UUID`有可能会出现无法连接的情况。
 `UUID`在线生成地址: https://1024tools.com/uuid
 
@@ -57,7 +58,7 @@ tags:
 
 ### CloudFlare Workers反代代码（支持VLESS\VMESS\Trojan-Go的WS模式，可分别用两个账号的应用程序名（UUID与path保持一致），单双号天分别执行，那一个月就有550+550小时）
 
-```
+```javascript
 const SingleDay = '应用程序名1.herokuapp.com'
 const DoubleDay = '应用程序名2.herokuapp.com'
 addEventListener(
