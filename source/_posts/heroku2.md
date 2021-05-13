@@ -3,6 +3,14 @@ title: freevps02-第二弹-使用免费容器heroku搭建v2ray/xray/trojan/ss多
 date: 2021-05-13 22:24:18
 tags:
 ---
+### 临时邮箱
+
+临时邮箱1: https://temp-mail.org/zh/ 
+推荐这个,需要输验证码,挂代理,换个IP就可以更换邮箱地址,代理可以用我第五期分享的节点.
+见这: https://youtu.be/7-YOdAtbu7E
+
+临时邮箱2:https://www.moakt.com/zh
+没测试过,可以试试
 
 #### 前言:
 1、注册heroku,注册也十分的简单,只需要一个邮箱即可,这里推荐使用域名邮箱.
