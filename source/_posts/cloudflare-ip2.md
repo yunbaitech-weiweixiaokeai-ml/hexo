@@ -9,7 +9,7 @@ tags:
 https://github.com/badafans/better-cloudflare-ip
 
 #### windows下载下来解压 双击 CF优选即可
-![若不显示,请开全局代理](https://i.loli.net/2021/05/14/KYOdZSXpBa3imsf.png)
+![若不显示,请开全局代理](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/小书匠/1620928108994.png)
 
 #### linux一键安装脚本
 
