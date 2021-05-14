@@ -74,14 +74,14 @@ Workers反代代码（支持VLESS\VMESS\Trojan-Go的WS模式，推荐使用域�
 **注意:注册时需要挂代理,而且尽量每注册一个账号就换一个ip**
 
 ```javascript
-    const _01 = 'xiaowen1.herokuapp.com'
-    const _02 = 'xiaowen2.herokuapp.com'
+    const _01 = 'xiaowen01.herokuapp.com'
+    const _02 = 'xiaowen02.herokuapp.com'
     const _03 = 'xiaowen03.herokuapp.com'
-	const _04 = 'xiaowen4.herokuapp.com'
-	const _05 = 'xiaowen5.herokuapp.com'
+	const _04 = 'xiaowen04.herokuapp.com'
+	const _05 = 'xiaowen05.herokuapp.com'
 	const _06 = 'xiaowen6.herokuapp.com'
-	const _07 = 'xiaowen7.herokuapp.com'
-	const _08 = 'xiaowen8.herokuapp.com'
+	const _07 = 'xiaowen07.herokuapp.com'
+	const _08 = 'xiaowen08.herokuapp.com'
 	
 addEventListener(
     "fetch",event => {
