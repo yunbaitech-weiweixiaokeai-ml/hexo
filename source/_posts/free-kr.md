@@ -3,6 +3,11 @@ title: free-kr
 date: 2021-05-13 22:19:57
 tags:
 ---
+
+###  这个机器翻车了，电报联系老板说今天补。买来用了两天就翻车了,别买这家(https://faka.abaiya.top/)
+
+2021年5月14日   后边要是补了,我会再做一期视频发布新的节点
+
 ```
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogIuS6mumprOmAii3pn6nlm70t55u06L+eM192bWVzc193cyIsDQogICJhZGQiOiAieXVlLjQ0NTYwMC5jZiIsDQogICJwb3J0IjogIjQ0MyIsDQogICJpZCI6ICJkMzU5MTY1NC1lMWRjLTQ4NWItOTcyYi1jZWM4MzM3OGM5YjgiLA0KICAiYWlkIjogIjEiLA0KICAibmV0IjogIndzIiwNCiAgInR5cGUiOiAibm9uZSIsDQogICJob3N0IjogInl1ZS40NDU2MDAuY2YiLA0KICAicGF0aCI6ICIvbG1tZXZ3cz9lZD0yMDQ4IiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
 
