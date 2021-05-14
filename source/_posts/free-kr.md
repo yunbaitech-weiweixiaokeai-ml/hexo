@@ -1,11 +1,12 @@
 ---
-title: 分享一个EC2韩国的节点,流量无限,提供各种方式.
+title: 分享两个节点,流量无限,提供多种方式.
 date: 2021-05-13 22:19:57
 tags:
 ---
 
 ###  再次修复
 
+EC2韩国
 ```
 ===================== VLESS TCP TLS/XTLS-direct/XTLS-splice ======================
  
@@ -92,5 +93,12 @@ tags:
  ---> Trojan-Go(WS+TLS) QV2ray 
     trojan-go://858a6b1f-5171-4185-9bc9-420877b6aed7@kr.445600.ga:443?sni=kr.445600.ga&type=ws&host=kr.445600.ga&path=%2Fqsmttws#kr.445600.ga_trojan_ws
 
+
+```
+
+heroku的节点
+
+```
+vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImhlcm9rdS3mlbTlkIgtdGFuZy1jbG9uZSIsDQogICJhZGQiOiAiMTYyLjE1OS4yMjcuMTUiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiOGY5MWI2YTAtZThlZS0xMWVhLWFkYzEtMDI0MmFjMTIwMDIwIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJyZXN0bGVzcy10aHVuZGVyLWYzYWIuYWFyb24xMjNhYmMud29ya2Vycy5kZXYiLA0KICAicGF0aCI6ICIvOGY5MWI2YTAtZThlZS0xMWVhLWFkYzEtMDI0MmFjMTIwMDIwLXZtZXNzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
 
 ```
