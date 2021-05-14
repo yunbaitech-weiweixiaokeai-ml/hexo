@@ -79,7 +79,7 @@ Workers反代代码（支持VLESS\VMESS\Trojan-Go的WS模式，推荐使用域�
     const _03 = 'xiaowen03.herokuapp.com'
 	const _04 = 'xiaowen04.herokuapp.com'
 	const _05 = 'xiaowen05.herokuapp.com'
-	const _06 = 'xiaowen6.herokuapp.com'
+	const _06 = 'xiaowen06.herokuapp.com'
 	const _07 = 'xiaowen07.herokuapp.com'
 	const _08 = 'xiaowen08.herokuapp.com'
 	
