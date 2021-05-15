@@ -6,7 +6,8 @@ tags:
 
 ###  再次修复
 
-EC2韩国
+### EC2韩国,流量无限
+
 ```
 ===================== VLESS TCP TLS/XTLS-direct/XTLS-splice ======================
  
@@ -96,7 +97,9 @@ EC2韩国
 
 ```
 
-heroku的节点
+#### heroku的节点
+
+需要使用IP优选工具,换成适合自己的IP.
 
 ```
 vmess://ew0KICAidiI6ICIyIiwNCiAgInBzIjogImhlcm9rdS3mlbTlkIgtdGFuZy1jbG9uZSIsDQogICJhZGQiOiAiMTYyLjE1OS4yMjcuMTUiLA0KICAicG9ydCI6ICI0NDMiLA0KICAiaWQiOiAiOGY5MWI2YTAtZThlZS0xMWVhLWFkYzEtMDI0MmFjMTIwMDIwIiwNCiAgImFpZCI6ICIwIiwNCiAgIm5ldCI6ICJ3cyIsDQogICJ0eXBlIjogIm5vbmUiLA0KICAiaG9zdCI6ICJyZXN0bGVzcy10aHVuZGVyLWYzYWIuYWFyb24xMjNhYmMud29ya2Vycy5kZXYiLA0KICAicGF0aCI6ICIvOGY5MWI2YTAtZThlZS0xMWVhLWFkYzEtMDI0MmFjMTIwMDIwLXZtZXNzIiwNCiAgInRscyI6ICJ0bHMiLA0KICAic25pIjogIiINCn0=
