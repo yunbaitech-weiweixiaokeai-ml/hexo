@@ -19,15 +19,16 @@ tags:
 * * *
 
 
-节点下载地址1:  
-密码:
+节点下载地址:  https://wws.lanzoui.com/ioT0Ipdfg6f
+密码:7uxp
 
-节点下载地址2:  https://445600.ml/ytb/06.txt
 
 本期节点**服务器**测速详情(仅供参考)--订阅中删除了一些不能用的节点
 
+![server](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/server.png)
+本期节点**本地(北方移动100M-校园无线网)**测速详情(速度仅供参考)--订阅中删除了一些不能用的节点
 
-
+![pi](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/pi.png)
 
 * * *
 
