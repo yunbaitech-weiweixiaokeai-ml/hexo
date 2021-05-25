@@ -24,7 +24,7 @@ tags:
 
 
 本期节点**服务器**测速详情(仅供参考)--订阅中删除了一些不能用的节点
-[![server.png](https://z.photos/images/2021/05/24/server.png)](https://z.photos/image/41XwK)
+[![server.png](https://z.photos/images/2021/05/26/server.png)](https://z.photos/image/8VvnT)
 
 本期节点**本地(北方移动100M-校园无线网)**测速详情(速度仅供参考)--订阅中删除了一些不能用的节点
 
