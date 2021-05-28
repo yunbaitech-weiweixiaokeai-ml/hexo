@@ -1,5 +1,5 @@
 ---
-title: 使用宝塔安装wordpress
+title: 安装宝塔面板
 date: 2021-05-27 02:01:43
 tags:
 ---
