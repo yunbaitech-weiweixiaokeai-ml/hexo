@@ -5,6 +5,10 @@ tags:
 ---
 本期视频地址: https://youtu.be/2agY6GLLte4
 
+### 这个是第二期视频,如果看不明白,先看第一期.
+https://youtu.be/aAVldSZv6hk
+
+
 ### IP优选项目地址: 
 https://github.com/badafans/better-cloudflare-ip
 
