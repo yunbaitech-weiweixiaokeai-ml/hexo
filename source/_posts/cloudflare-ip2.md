@@ -10,13 +10,13 @@ https://github.com/badafans/better-cloudflare-ip
 
 #### windows下载下来解压 双击 CF优选即可
 ![若不显示,请开全局代理](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/小书匠/1620928108994.png)
-
+=======================================================================
 #### linux一键安装脚本
-
+## 这个是给本地Linux设备使用的,比如树莓派,不是vps.
 ```shell?linenums
 wget -N --no-check-certificate -q -O install.sh "https://cdn.jsdelivr.net/gh/jth445600/hello-world@master/cf-ip.sh" && chmod +x install.sh && bash install.sh
 ```
-
+=================================================================
 ### cloudflare的网址: https://dash.cloudflare.com/
 ![20210412001029](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210412001029.png)
 #### 首次使用的一些注意事项:
