@@ -114,8 +114,8 @@ cat /proc/sys/kernel/random/uuid
                     ], 
                     "certificates": [
                         {
-                            "certificateFile": "/usr/local/etc/xray/cert/fullchain.cer", 
-                            "keyFile": "/usr/local/etc/xray/cert/private.key"
+                            "certificateFile": "/www/server/panel/vhost/cert/red.445600.ga/fullchain.pem", //修改为你的域名
+                            "keyFile": "/www/server/panel/vhost/cert/red.445600.ga/privkey.pem" //修改为你的域名
                         }
                     ]
                 }
