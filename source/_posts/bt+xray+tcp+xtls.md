@@ -137,7 +137,29 @@ cat /proc/sys/kernel/random/uuid
 
 修改Nginx配置文件
 
+```
+server { 
+    listen       0.0.0.0:80;
+    server_name  red.445600.ga;
+    root /usr/share/nginx/html/;
+    index index.php index.html;
+    #rewrite ^(.*)$  https://\$host\$1 permanent; 
+}
+ server {
+    listen       127.0.0.1:37212;
+    server_name  red.445600.ga;
+    root /usr/share/nginx/html;
+    index index.php index.html index.htm;
+}
+ server {
+    listen       127.0.0.1:37213 http2;
+    server_name  red.445600.ga;
+    root /usr/share/nginx/html;
+    index index.php index.html index.htm;
+}
+    
 
+```
 
 
 
