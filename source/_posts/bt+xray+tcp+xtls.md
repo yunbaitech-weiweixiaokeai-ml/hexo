@@ -51,17 +51,20 @@ wget -O install.sh http://download.bt.cn/install/install-ubuntu_6.0.sh && bash i
 sed -i "s|bind_user == 'True'|bind_user == 'XXXX'|" /www/server/panel/BTPanel/static/js/index.js
 ```
 
+
+
+
 三、安装xray
 
 ```
 bash -c "$(curl -L https://github.com/XTLS/Xray-install/raw/main/install-release.sh)" @ install -u root
 
 ```
-生成UUID有两种方法
+### 生成UUID有两种方法
 
 1.直接在shell输入命令
 ```
-cat /proc/sys/kernel/random/uuid # 粘贴到VPS运行即可生成 UUID
+cat /proc/sys/kernel/random/uuid 
 ```
 2. 使用该网站生成  https://1024tools.com/uuid
 
@@ -69,8 +72,70 @@ cat /proc/sys/kernel/random/uuid # 粘贴到VPS运行即可生成 UUID
 ![20210530202405](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210530202405.png)
 
 
+安装完毕以后，在VPS目录 /usr/local/etc/xray 找到 config,json 文件，贴入下面的配置文件
+（以下配置中，两处修改 其中域名处，必须修改）
 
+```
+{
+    "log": {
+        "loglevel": "warning"
+    }, 
+    "inbounds": [
+        {
+            "listen": "0.0.0.0", 
+            "port": 443, 
+            "protocol": "vless", 
+            "settings": {
+                "clients": [
+                    {
+                        "id": "baf36097-d1ff-4b9a-bef0-fc6b3a5cbb29", //此处改为你的UUID
+                        "level": 0, 
+                        "email": "a@b.com",
+                        "flow":"xtls-rprx-direct"
+                    }
+                ], 
+                "decryption": "none", 
+                "fallbacks": [
+                    {
+                        "dest": 37212
+                    }, 
+                    {
+                        "alpn": "h2", 
+                        "dest": 37213
+                    }
+                ]
+            }, 
+            "streamSettings": {
+                "network": "tcp", 
+                "security": "xtls", 
+                "xtlsSettings": {
+                    "serverName": "red.445600.ga", //修改为你的域名
+                    "alpn": [
+                        "h2", 
+                        "http/1.1"
+                    ], 
+                    "certificates": [
+                        {
+                            "certificateFile": "/usr/local/etc/xray/cert/fullchain.cer", 
+                            "keyFile": "/usr/local/etc/xray/cert/private.key"
+                        }
+                    ]
+                }
+            }
+        }
+    ], 
+    "outbounds": [
+        {
+            "protocol": "freedom", 
+            "settings": { }
+        }
+    ]
+}
+```
 
+三 修改网站配置文件
+
+修改Nginx配置文件
 
 
 
