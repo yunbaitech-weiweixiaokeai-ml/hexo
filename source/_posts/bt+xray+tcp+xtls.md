@@ -96,9 +96,7 @@ cat /proc/sys/kernel/random/uuid
                 ], 
                 "decryption": "none", 
                 "fallbacks": [
-                    {
-                        "dest": 37212
-                    }, 
+                    
                     {
                         "alpn": "h2", 
                         "dest": 37213
@@ -135,8 +133,7 @@ cat /proc/sys/kernel/random/uuid
 
 三 修改网站配置文件
 
-修改Nginx配置文件
-
+首先在代码第一行插入如下代码（强制开启 HTTPS 访问）
 ```
 server { 
     listen       0.0.0.0:80;
@@ -145,24 +142,18 @@ server {
     index index.php index.html;
     #rewrite ^(.*)$  https://\$host\$1 permanent; 
 }
- server {
-    listen       127.0.0.1:37212;
-    server_name  red.445600.ga;
-    root /usr/share/nginx/html;
-    index index.php index.html index.htm;
-}
- server {
-    listen       127.0.0.1:37213 http2;
-    server_name  red.445600.ga;
-    root /usr/share/nginx/html;
-    index index.php index.html index.htm;
-}
-    
 
 ```
-
-
-
+其次删除 listen 80; 这行，并修改 443 端口为 37213 （以上配置文件端口），去除 ssl 字段。
+```
+ listen 8002 http2;
+ 
+```
+### 测试 Xray 配置文件
+输入下面命令，查看 Xray 是否正常运行，若是有问题，就是配置文件出错
+```
+systemctl restart xray && systemctl status xray
+```
 
 
 
