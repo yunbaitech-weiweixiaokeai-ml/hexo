@@ -1,5 +1,5 @@
 ---
-title: 使用宝塔面板安装 xray+tcp+xtls最强科学上网方法
+title: 使用宝塔面板安装 xray+tcp+xtls+wordpress
 date: 2021-05-30 02:01:43
 tags:
 ---
