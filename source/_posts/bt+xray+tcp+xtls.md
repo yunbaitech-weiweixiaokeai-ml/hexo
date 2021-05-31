@@ -3,7 +3,7 @@ title: 使用宝塔面板安装 xray+tcp+xtls最强科学上网方法
 date: 2021-05-30 02:01:43
 tags:
 ---
-
+本期视频地址:  https://youtu.be/SEEb5vblb9w
 ### 准备工具
 
 1、VPS 一台，重置好主流的操作系统
