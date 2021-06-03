@@ -11,3 +11,5 @@ wget -N --no-check-certificate -q -O install.sh "https://cdn.jsdelivr.net/gh/jth
 wget https://raw.githubusercontent.com/jth445600/hello-world/master/termux_proxypoocheck.sh && sh termux_proxypoocheck.sh
 
 https://www.sqlsec.com/2018/05/termux.html#toc-heading-4
+
+https://jsharkc.github.io/2019/11/16/Android-Phone-as-linux-server/
