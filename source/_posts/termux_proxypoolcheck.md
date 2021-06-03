@@ -6,6 +6,5 @@ tags:
 
 
 ```shell
-wget https://raw.githubusercontent.com/jth445600/hello-world/master/termux_proxypoocheck.sh && sh termux_proxypoocheck.sh
-
+wget -N --no-check-certificate -q -O install.sh "https://cdn.jsdelivr.net/gh/jth445600/hello-world@master/termux_proxypoocheck.sh" && chmod +x install.sh && bash install.sh
 ```
