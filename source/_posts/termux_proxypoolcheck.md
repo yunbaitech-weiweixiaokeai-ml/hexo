@@ -1,19 +1,24 @@
 ---
-title: 在手机上安装配置节点采集工具
+title: 在安卓手机上安装配置节点采集工具
 date: 2021-06-04 21:22:28
 tags:
 ---
 一 下载termux
-下载地址1 https://dl.coolapk.com/down?pn=com.termux&id=MjAyMDI&h=0cf1b95aqu631s&from=click
+下载地址2 https://f-droid.org/packages/com.termux/
+先是下载下来F-Droid,就是一个软件市场，然后在这个软件市场里搜索`termux`
+进行安装
 
-下载地址2 https://cdn.jsdelivr.net/gh/jth445600/hello-world@master/Termux_v0.73.apk
+方法2 有Google PLAY的直接在里边搜索 termux下载安装即可
+
 下载下来安装就行了
+
+
 
 命令1 （推荐）
 ```
 wget -N --no-check-certificate -q -O install.sh "https://cdn.jsdelivr.net/gh/jth445600/hello-world@master/termux_proxypoocheck.sh" && chmod +x install.sh && bash install.sh
 ```
-命令2（有可能报错）
+命令2（需要挂代理）
 ```
 wget https://raw.githubusercontent.com/jth445600/hello-world/master/termux_proxypoocheck.sh && sh termux_proxypoocheck.sh
 ```
