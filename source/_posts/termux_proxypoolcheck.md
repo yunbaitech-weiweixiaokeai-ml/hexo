@@ -10,13 +10,13 @@ tags:
 下载下来安装就行了
 
 命令1 （推荐）
-
+```
 wget -N --no-check-certificate -q -O install.sh "https://cdn.jsdelivr.net/gh/jth445600/hello-world@master/termux_proxypoocheck.sh" && chmod +x install.sh && bash install.sh
-
+```
 命令2（有可能报错）
-
+```
 wget https://raw.githubusercontent.com/jth445600/hello-world/master/termux_proxypoocheck.sh && sh termux_proxypoocheck.sh
-
+```
 提示成功运行之后，在浏览器打开 `127.0.0.1:8080` 就可以看到了，采集需要等几分钟
 
 **存在的问题**
