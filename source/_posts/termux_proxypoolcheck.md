@@ -18,7 +18,7 @@ tags:
 wget -N --no-check-certificate -q -O install.sh "https://445600.ml/termux_proxypoocheck.sh" && chmod +x install.sh && bash install.sh
 ```
 
-```
+
 提示成功运行之后，在浏览器打开 `127.0.0.1:8080` 就可以看到了，采集需要等几分钟
 
 **存在的问题**
