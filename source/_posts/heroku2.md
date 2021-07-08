@@ -10,6 +10,7 @@ tags:
 
 ### 我随便找了一个发卡网站: http://www.shine3.net/product/
 
+![20210708183651](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210708183651.png)
 
 > 作为薅资本主义羊毛无产阶级的无产阶级战士,邮箱是我们手中最锋利的剪子.
 
