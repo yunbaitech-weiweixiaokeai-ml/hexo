@@ -25,8 +25,8 @@ https://github.com/badafans/better-cloudflare-ip
 =================================================================
 
 ================================================================
-#### linux一键安装脚本
-## 这个是给本地Linux设备使用的,比如树莓派,不是vps.
+## linux一键安装脚本
+# 这个是给本地Linux设备使用的,比如树莓派,不是vps.
 ```shell?linenums
 wget -N --no-check-certificate -q -O install.sh "https://cdn.jsdelivr.net/gh/jth445600/hello-world@master/cf-ip.sh" && chmod +x install.sh && bash install.sh
 ```
