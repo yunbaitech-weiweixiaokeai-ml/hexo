@@ -12,7 +12,7 @@ tags:
 
 ### 注意 126邮箱不行
 
-> 作为薅资本主义羊毛无产阶级的无产阶级战士,邮箱是我们手中最锋利的剪子.
+> 作为薅资本主义羊毛无产阶级战士,邮箱是我们手中最锋利的剪子.
 
 
 ### 也可以试试临时邮箱:
@@ -34,7 +34,7 @@ tags:
 
 ## 服务端创建操作流程 
 <!-- [![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/YG-tsj/Heroku-xray-trojangows-ssws)   -->
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/jth445600/vhe2rku/tree/vless)  
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/jth445600/fxxkhk)  
 点击`Deploy`，会跳转到heroku app创建页面，填上应用程序名、选择节点（欧洲）、自定义UUID码，其他建议保持默认，点击下面deploy，几秒后搞定！    
 
 ## vmess vless trojan-go shadowsocks对应客户端参数的参考如下,末尾带()里的内容仅为提示
