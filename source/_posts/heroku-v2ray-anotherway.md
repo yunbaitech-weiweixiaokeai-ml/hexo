@@ -13,11 +13,11 @@ tags:
 
 申请vps地址：[点击进入](https://dashboard.heroku.com/new?template=https%3A%2F%2Fgithub.com%2Fbclswl0827%2Fv2ray-heroku)
 
-github项目地址：[点击进入](https://github.com/jth445600/v2ray-heroku/tree/master)
+github项目地址：[点击进入](https://github.com/jth445600/vhe2rku)
 
 开始：
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/jth445600/v2ray-heroku)  
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/jth445600/vhe2rku)  
 点击`Deploy`，会跳转到heroku app创建页面，
 
 如图所示：输入一个可用的用户名，点击deploy app进入下一步
