@@ -17,7 +17,7 @@ github项目地址：[点击进入](https://github.com/jth445600/vhe2rku)
 
 开始：
 
-[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/jth445600/vhe2rku)  
+[![Deploy](https://www.herokucdn.com/deploy/button.png)](https://www.herokucdn.com/deploy/button.png)](https://dashboard.heroku.com/new?template=https://github.com/jth445600/fxxkhk)  
 点击`Deploy`，会跳转到heroku app创建页面，
 
 如图所示：输入一个可用的用户名，点击deploy app进入下一步
