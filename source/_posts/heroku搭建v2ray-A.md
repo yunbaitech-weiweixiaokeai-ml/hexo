@@ -5,6 +5,31 @@ tags:
 ---
 # 使用Heroku部署Xray高性能代理服务，通过ws传输的 (vmess、vless、trojan shadowsocks、socks)等协议
 
+0/ 需要的条件： 一个常用邮箱  ;   耐心
+
+1/ github注册地址：
+
+www.github.com
+
+2/ cloudflare注册地址：
+
+www.cloudflare.com
+
+3/ 项目github地址：
+https://github.com/jth445600/HerokuXray
+
+4/ 临时邮箱地址：
+
+http://mx.445600.gq/
+
+5/ heroku注册地址:
+
+www.heroku.com
+
+6/ `UUID`在线生成地址: 
+https://1024tools.com/uuid
+
+
 > 提醒： 滥用可能导致账户被BAN！！！ 
 
 ## 概述
