@@ -93,6 +93,7 @@ vim /etc/nginx/conf.d/alone.conf
                 index index.html;
                                 proxy_pass http://127.0.0.1:3000/;
                 }
+        }
 
 ```
 
