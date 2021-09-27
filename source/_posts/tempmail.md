@@ -82,7 +82,7 @@ TTL：自动
 
 ## 3. 设置Nginx反代
 ```
-vim /etc/nginx/conf.d/alone.conf 
+ /etc/nginx/conf.d/
 ```
 ```
         server {
