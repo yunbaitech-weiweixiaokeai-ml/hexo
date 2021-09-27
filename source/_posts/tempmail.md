@@ -100,7 +100,7 @@ vim /etc/nginx/conf.d/alone.conf
 重启nginx
 
 ```
-systemctl restart ngxin
+systemctl  ngxin restart
 
 ```
 
