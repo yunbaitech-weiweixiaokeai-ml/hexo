@@ -71,6 +71,23 @@ IPv4 地址：vps ip
 TTL：自动
 
 ![20210927145349](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210927145349.png)
+
+## 3. 设置Nginx反代
+```
+vim /etc/nginx/conf.d/alone.conf 
+```
+```
+        server {
+         listen 80;
+        server_name mx.445600.gq;
+        location / {
+                root /usr/local/ServerStatus/web;
+                index index.html;
+                                proxy_pass http://127.0.0.1:3000/;
+                }
+
+```
+
 ## 4. 一些docker命令
 
 由于程序是docker封装的，以下对日后维护很有帮助的docker命令简记如下
