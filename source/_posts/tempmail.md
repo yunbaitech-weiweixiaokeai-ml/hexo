@@ -3,6 +3,14 @@ title: 搭建临时邮箱
 date: 2021-09-27 03:01:43
 tags:
 ---
+
+⛳️思维导图地址：https://gitmind.com/app/doc/47d3001930
+
+![20210927222355](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210927222355.png)
+
+
+## 本期视频地址： https://youtu.be/WAJ-jAXvdzU
+
 最近服务器闲置地有点多，为了不吃灰，拿来搭建一个temp邮箱！
 
 ![20210927144022](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210927144022.png)
