@@ -100,7 +100,11 @@ vim /etc/nginx/conf.d/alone.conf
 重启nginx
 
 ```
-systemctl  restart nginx
+ps aux | grep nginx
+
+kill pid
+
+nginx
 ```
 
 ## 4. 一些docker命令
