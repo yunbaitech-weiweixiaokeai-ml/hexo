@@ -1,5 +1,5 @@
 ---
-title: 安装宝塔面板
+title: 使用宝塔搭建临时邮箱
 date: 2021-09-27 02:01:43
 tags:
 ---
@@ -8,7 +8,7 @@ tags:
 
 1、VPS 一台，重置好主流的操作系统
 推荐用centos7系统
-2、域名一个，解析到该VPS。
+2/ 域名一个
 
 #### 以下操作使用centos7演示
 
@@ -19,6 +19,14 @@ yum install epel-release -y
 yum update -y
 yum install wget curl -y
 ```
+
+debian/ubuntu系统
+
+```
+apt update 
+apt install wget curl -y
+```
+
 二、安装宝塔面板
 宝塔面板主页：https://www.bt.cn/
 Centos安装命令：
@@ -52,6 +60,11 @@ sed -i "s|if (bind_user == 'True') {|if (bind_user == 'REMOVED') {|g" /www/serve
  
 rm -rf /www/server/panel/data/bind.pl
 ```
+
+搭建完之后，安装nginx环境
+
+
+
 
 
 
