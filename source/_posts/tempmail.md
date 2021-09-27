@@ -10,6 +10,14 @@ tags:
 项目地址 https://github.com/denghongcai/forsaken-mail 
 
 项目作者写的步骤有点不怎么清楚，这里将自己的摸索过程记录如下
+## 准备工作
+1/ vps一台
+2/ 一个域名
+
+cloudflare 官网
+
+www.cloudflare.com
+
 
 ## 1.安装
 
