@@ -96,6 +96,13 @@ vim /etc/nginx/conf.d/alone.conf
 
 ```
 
+重启nginx
+
+```
+systemctl restart ngxin
+
+```
+
 ## 4. 一些docker命令
 
 由于程序是docker封装的，以下对日后维护很有帮助的docker命令简记如下
