@@ -100,8 +100,7 @@ vim /etc/nginx/conf.d/alone.conf
 重启nginx
 
 ```
-systemctl  nginx restart
-
+systemctl  restart nginx
 ```
 
 ## 4. 一些docker命令
