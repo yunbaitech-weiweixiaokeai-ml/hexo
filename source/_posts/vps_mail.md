@@ -57,6 +57,7 @@ vim /etc/hosts
 ```
 ![20210928140619](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928140619.png)
 这是原来的,修改如下
+
 ```
 127.0.0.1   mx.example.com mx localhost localhost.localdomain
 ```
@@ -78,7 +79,7 @@ hostname -f
 ```shell
 git clone https://github.com/iredmail/iRedMail.git
 ```
-<img src="https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928132220.png" alt="20210928132220" style="zoom:80%;" />
+![20210928132220](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928132220.png)
 
 ![20210928132249](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928132249.png)
 
@@ -98,37 +99,36 @@ bash iRedMail.sh
 开始安装了
 
 欢迎使用界面 ,回车继续
-<img src="https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928141350.png" alt="20210928141350" style="zoom: 80%;" />
+![20210928141350](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928141350.png)
 
 指定用于存储用户邮箱的路径。默认是 `/var/vmail/`。默认即可
-<img src="https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928141442.png" alt="20210928141442" style="zoom:80%;" />
+![20210928141442](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928141442.png)
 
 选择web服务器,使用默认即可
 
-<img src="https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928141513.png" alt="20210928141513" style="zoom:80%;" />
+![20210928141513](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928141513.png)
 
 选择数据库, 方向键选择第二个,**空格** 选中,然后下一步
-<img src="https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928141721.png" alt="20210928141721" style="zoom:80%;" />
+![20210928141721](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928141721.png)
 
 设置数据库的密码,建议复杂一些,但是自己得记住.
 
-<img src="https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928141831.png" alt="20210928141831" style="zoom:80%;" />
+![20210928141831](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928141831.png)
 
 输入域名, `域名`
 
-<img src="https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928141945.png" alt="20210928141945" style="zoom:80%;" />
+![20210928141945](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928141945.png)
 
 设置邮箱管理员的密码
 
-<img src="https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928142535.png" alt="20210928142535" style="zoom:80%;" />
+![20210928142535](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928142535.png)
 
 可选的组件,默认即可
 
-<img src="https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928142700.png" alt="20210928142700" style="zoom:80%;" />
+![20210928142700](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928142700.png)
 
 确认 `y`
 
-<img src="https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928142719.png" alt="20210928142719" style="zoom:80%;" />
+![20210928142719](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928142719.png)
 
 等待安装即可
-
