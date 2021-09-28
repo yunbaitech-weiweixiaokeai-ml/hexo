@@ -132,3 +132,11 @@ bash iRedMail.sh
 ![20210928142719](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928142719.png)
 
 等待安装即可
+已经安装完成
+不要用其提供的防火墙，输入 `N`
+
+![20210928143759](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928143759.png)
+
+安装完成之后可以看到一些信息，注意保持，然后重启vps
+
+![20210928143903](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928143903.png)
