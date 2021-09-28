@@ -150,3 +150,22 @@ bash iRedMail.sh
 登录后台
 
 ![20210928144438](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928144438.png)
+
+新增用户
+
+![20210928144612](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928144612.png)
+
+登录到邮箱界面
+
+![20210928144734](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928144734.png)
+
+
+![20210928144756](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928144756.png)
+
+这样就差不多搞定了
+
+简单测试一下
+
+![20210928144912](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928144912.png)
+经过测试可以收到邮件
+![20210928145451](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928145451.png)
