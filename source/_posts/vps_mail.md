@@ -140,3 +140,13 @@ bash iRedMail.sh
 安装完成之后可以看到一些信息，注意保持，然后重启vps
 
 ![20210928143903](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928143903.png)
+
+重启完之后，打开浏览器登录后台
+
+注意没有设置证书，所以会这么提示，选择继续前往就可以了
+
+![20210928144144](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928144144.png)
+
+登录后台
+
+![20210928144438](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928144438.png)
