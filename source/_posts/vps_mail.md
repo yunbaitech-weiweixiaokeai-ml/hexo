@@ -93,3 +93,6 @@ cd iRedMail/
 ```shell
 bash iRedMail.sh 
 ```
+![20210928141241](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928141241.png)
+
+开始安装了
