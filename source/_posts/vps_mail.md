@@ -169,3 +169,11 @@ bash iRedMail.sh
 ![20210928144912](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928144912.png)
 经过测试可以收到邮件
 ![20210928145451](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928145451.png)
+
+经过测试，可以接收邮件。安装成功。
+
+![20210928215618](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20210928215618.png)
+
+到这一步，使用官方脚本安装就已经完成。
+
+当然这些还不够，还要进一步操作。
