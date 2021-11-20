@@ -141,4 +141,12 @@ docker start 容器ID
 ```
 docker exec -it 容器ID /bin/bash
 ```
+### 常见错误
+
+![20211120110535](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20211120110535.png)
+重启或者开启就好了
+
+![20211120110600](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20211120110600.png)
+
+
 搭建挺简单的，只是碰到的小问题挺多。如果有碰到别的疑难杂症，欢迎留言！
