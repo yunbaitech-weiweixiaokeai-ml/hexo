@@ -82,6 +82,9 @@ addEventListener(
 
 打开这个网站,有自己的邮箱注册就行了,不用绑定信用卡,可以免费使用
 
+也可以使用 cloudflare page
+
+打开cloudflare的官网  www.cloudflare.com
 
 github 项目地址:  https://github.com/CareyWang/sub-web
 
