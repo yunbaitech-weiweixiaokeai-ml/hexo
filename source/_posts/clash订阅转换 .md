@@ -86,7 +86,7 @@ addEventListener(
 
 打开cloudflare的官网  www.cloudflare.com
 
-github 项目地址:  https://github.com/CareyWang/sub-web
+github 项目地址: https://github.com/jth445600/sub-web
 
 fork之后,修改一下
 ![20211120132246](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20211120132246.png)
