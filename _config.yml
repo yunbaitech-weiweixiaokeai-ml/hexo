@@ -74,8 +74,8 @@ pagination_dir: page
 ## Plugins: https://hexo.io/plugins/
 ## Themes: https://hexo.io/themes/
 #theme: landscape
-#theme: next
-theme: argon
+theme: next
+#theme: argon
 #theme: butterfly
 #theme: fluid
 # Deployment
@@ -83,7 +83,7 @@ theme: argon
 deploy:
   type:
 
-search:
-  path: search.xml
-  field: post
-  content: true
+# search:
+#   path: search.xml
+#   field: post
+#   content: true
