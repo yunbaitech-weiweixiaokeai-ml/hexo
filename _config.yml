@@ -82,3 +82,8 @@ theme: argon
 ## Docs: https://hexo.io/docs/deployment.html
 deploy:
   type:
+
+search:
+  path: search.xml
+  field: post
+  content: true
