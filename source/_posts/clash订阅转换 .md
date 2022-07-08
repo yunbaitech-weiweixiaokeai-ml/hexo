@@ -88,6 +88,10 @@ addEventListener(
 
 github 项目地址: https://github.com/jth445600/sub-web
 
+修改默认后端地址
+找到 sub-web/src/views/Subconverter.vue 文件
+
+找到 258行 backendOptions: ，替换后面的 http://127.0.0.1:25500/sub? 为 修改刚才搭建的woker的地址
 fork之后,修改一下
 ![20211120132246](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/img/20211120132246.png)
 
