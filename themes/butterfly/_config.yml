@@ -80,17 +80,17 @@ favicon: /img/favicon.png
 
 # Avatar (頭像)
 avatar:
-  img: https://www.helloimg.com/image/ZvvNEX
+  img: https://www.helloimg.com/images/2022/07/20/ZvvNEX.jpg
   effect: false
 
 # Disable all banner image
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://www.helloimg.com/image/Zvvv0Y
+index_img: https://www.helloimg.com/images/2022/07/20/Zvvv0Y.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://www.helloimg.com/image/Zvvv0Y
+default_top_img: https://www.helloimg.com/images/2022/07/20/Zvvv0Y.jpg
 
 # The banner image of archive page
 archive_img:
