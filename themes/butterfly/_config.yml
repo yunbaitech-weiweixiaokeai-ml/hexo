@@ -90,7 +90,7 @@ disable_top_img: false
 index_img: https://www.helloimg.com/image/Zvvv0Y
 
 # If the banner of page not setting, it will show the top_img
-default_top_img:
+default_top_img: https://www.helloimg.com/image/Zvvv0Y
 
 # The banner image of archive page
 archive_img:
