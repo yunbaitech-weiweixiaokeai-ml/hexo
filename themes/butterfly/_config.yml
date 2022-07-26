@@ -87,10 +87,10 @@ avatar:
 disable_top_img: false
 
 # The banner image of home page
-index_img: https://www.helloimg.com/images/2022/07/20/Zvvv0Y.jpg
+index_img: https://s1.ax1x.com/2022/07/26/vSK0tf.jpg
 
 # If the banner of page not setting, it will show the top_img
-default_top_img: https://www.helloimg.com/images/2022/07/20/Zvvv0Y.jpg
+default_top_img: https://s1.ax1x.com/2022/07/26/vSK0tf.jpg
 
 # The banner image of archive page
 archive_img:
@@ -123,15 +123,14 @@ cover:
   position: both
   # When cover is not set, the default cover is displayed (當沒有設置cover時，默認的封面顯示)
   default_cover:
-     - https://www.helloimg.com/images/2022/01/02/GzaaU1.jpg
-     - https://www.helloimg.com/images/2022/07/20/ZvvQ9g.md.jpg
-     - https://www.helloimg.com/images/2022/07/20/ZvvpkM.jpg
-     - https://i.imgtg.com/2022/07/20/rOJli.jpg
-     - https://i.imgtg.com/2022/07/20/rORBX.jpg
-     - https://i.imgtg.com/2022/07/20/rOtZt.jpg
-     - https://www.helloimg.com/images/2022/07/20/Zvvh1c.jpg
-     - https://www.helloimg.com/images/2022/07/20/ZvvuIr.jpg
-     - https://www.helloimg.com/images/2022/07/20/Zvvjlq.jpg
+     - https://s1.ax1x.com/2022/07/26/vSKwAP.jpg
+     - https://s1.ax1x.com/2022/07/26/vSKa7t.jpg
+     - https://s1.ax1x.com/2022/07/26/vSKU0I.jpg
+     - https://s1.ax1x.com/2022/07/26/vSKNnA.jpg
+     - https://s1.ax1x.com/2022/07/26/vSKYXd.jpg
+     - https://s1.ax1x.com/2022/07/26/vSKJ6H.jpg
+     - https://s1.ax1x.com/2022/07/26/vSKG1e.jpg
+     - https://s1.ax1x.com/2022/07/26/vSK8pD.jpg
 
 # Replace Broken Images (替換無法顯示的圖片)
 error_img:
