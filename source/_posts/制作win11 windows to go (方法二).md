@@ -39,6 +39,7 @@ aside:
 - [一、下载资源](#一下载资源)
   - [1. 下载微软官方Windows 11镜像下载工具](#1-下载微软官方windows-11镜像下载工具)
     - [方法一 — 从微软官方网站下载](#方法一--从微软官方网站下载)
+    - [方法二](#方法二)
   - [2. 下载WindowsNTSetup](#2-下载windowsntsetup)
   - [3. 下载DiskGenius](#3-下载diskgenius)
 - [二、开始制作](#二开始制作)
@@ -111,6 +112,10 @@ Windows7以上系统才能制作
 ![](<https://github.com/jth445600/picgo/blob/main/img/2023-1-24 16-19-30/e80929f8-1d8e-4be7-95ba-e39822410dce.webp?raw=true>)
 
 留着他备用
+
+### 方法二 
+
+下载Windows 10镜像：制作WTG建议使用Windows 10 x64镜像，建议在官网下载；也可以在这个网站下载原版系统，网址： https://hellowindows.cn/
 
 ## 2. 下载WindowsNTSetup
 
