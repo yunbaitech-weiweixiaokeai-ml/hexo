@@ -8,7 +8,7 @@ keywords:
 description:
 top_img: https://www.helloimg.com/images/2023/01/24/oR9Pu0.png
 comments: 
-cover:https://www.helloimg.com/images/2023/01/24/oR9Pu0.png
+cover: https://www.helloimg.com/images/2023/01/24/oR9Pu0.png
 toc:
 toc_number:
 toc_style_simple:
@@ -23,7 +23,6 @@ aplayer:
 highlight_shrink:
 aside:
 ---
-
 
 # 制作win11 windows to go (方法二)
 
