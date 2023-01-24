@@ -1,30 +1,48 @@
 ---
-title: 制作win11 windows to go
+title:  制作win11 windows to go
 date: 2023-1-24
-updated: 2023-1-24
-type: 
-comments:
-description:
+updated:  2023-1-24
+tags: wintogo
+categories: windows
 keywords:
-top_img: https://github.com/jth445600/picgo/blob/main/img/2023-1-24 16-04-54/43204ac6-cd0a-462f-9c7b-e54d1c9cacdd.webp?raw=true
+description:
+top_img: https://www.helloimg.com/images/2023/01/24/oR9Pu0.png
+comments: 
+cover:https://www.helloimg.com/images/2023/01/24/oR9Pu0.png
+toc:
+toc_number:
+toc_style_simple:
+copyright:
+copyright_author:
+copyright_author_href:
+copyright_url:
+copyright_info:
 mathjax:
 katex:
-aside:
 aplayer:
 highlight_shrink:
+aside:
 ---
+
+
+作者: Jerry
+連結: https://butterfly.js.org/posts/dc584b87/#Post-Front-matter
+來源: Butterfly
+著作權歸作者所有。商業轉載請聯絡作者獲得授權，非商業轉載請註明出處。
 
 # 制作win11 windows to go (方法二)
 
 ## 目录
 
--   [一、下载资源](#一下载资源)
-    -   [1. 下载微软官方Windows 11镜像下载工具](#1-下载微软官方Windows-11镜像下载工具)
-        -   [方法一 — 从微软官方网站下载](#方法一--从微软官方网站下载)
-    -   [2. 下载WindowsNTSetup](#2-下载WindowsNTSetup)
-    -   [3. 下载DiskGenius](#3-下载DiskGenius)
--   [二、开始制作](#二开始制作)
--   [三、重启进入系统,开始设置](#三重启进入系统开始设置)
+- [制作win11 windows to go (方法二)](#制作win11-windows-to-go-方法二)
+  - [目录](#目录)
+- [一、下载资源](#一下载资源)
+  - [1. 下载微软官方Windows 11镜像下载工具](#1-下载微软官方windows-11镜像下载工具)
+    - [方法一 — 从微软官方网站下载](#方法一--从微软官方网站下载)
+  - [2. 下载WindowsNTSetup](#2-下载windowsntsetup)
+  - [3. 下载DiskGenius](#3-下载diskgenius)
+- [二、开始制作](#二开始制作)
+- [三、重启进入系统,开始设置](#三重启进入系统开始设置)
 
 ![](<https://github.com/jth445600/picgo/blob/main/img/2023-1-24 16-04-54/43204ac6-cd0a-462f-9c7b-e54d1c9cacdd.webp?raw=true>)
 
