@@ -24,6 +24,10 @@ highlight_shrink:
 aside:
 ---
 
+### 思维导图
+
+https://gitmind.com/app/docs/mqy0dckm
+
 ### 哔哩下载姬
 
 项目主页  https://github.com/leiurayer/downkyi
