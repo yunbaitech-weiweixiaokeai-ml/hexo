@@ -1,5 +1,5 @@
 ---
-title:  使用下载姬(downkyi)下载b站视频.md
+title:  使用下载姬(downkyi)下载b站视频
 date: 2023-1-25
 updated:
 tags: b站视频下载
