@@ -1,6 +1,6 @@
 ---
 title:  制作win11 windows to go
-date: 2023-1-24
+date:  2023-1-24
 updated:  2023-1-24
 tags: wintogo
 categories: windows
