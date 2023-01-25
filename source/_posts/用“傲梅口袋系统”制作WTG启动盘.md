@@ -24,6 +24,9 @@ highlight_shrink:
 aside:
 ---
 
+## 思维导图
+
+https://gitmind.com/app/docs/mqy0dckm
 
 今天来介绍用“傲梅口袋系统”制作WTG启动盘
 

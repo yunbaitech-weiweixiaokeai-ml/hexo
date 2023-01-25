@@ -26,6 +26,10 @@ aside:
 
 # 制作win11 windows to go (方法二)
 
+## 思维导图
+
+https://gitmind.com/app/docs/mqy0dckm
+
 ## 目录
 
 - [制作win11 windows to go (方法二)](#制作win11-windows-to-go-方法二)
