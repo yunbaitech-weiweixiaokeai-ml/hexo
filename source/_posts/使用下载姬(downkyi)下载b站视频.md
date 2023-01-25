@@ -74,7 +74,7 @@ aside:
 
   ......
 
-#### 目前已支持的有：
+ 目前已支持的有：
 
 -  av号：av170001，https://www.bilibili.com/video/av170001
 -  BV号：BV17x411w7KC，https://www.bilibili.com/video/BV17x411w7KC, https://b23.tv/BV17x411w7KC
@@ -87,6 +87,7 @@ aside:
 -  用户空间：uid928123，UID:928123，https://space.bilibili.com/928123
 
 > 注：因为番剧和课程都有ss号和ep号，因此暂时不能直接输入ss号和ep号。
+### 一 下载
 
 下载地址: https://github.com/leiurayer/downkyi/releases
 
@@ -95,6 +96,7 @@ aside:
 复制下载链接之后到 https://ghproxy.com/ 粘贴下载, 这样做是为了加速下载
 ![enter description here](https://s2.loli.net/2023/01/25/eBjHC98gNLdfJRT.png)
 下载完成之后,解压打开就行了. 
+### 开始使用
 双击这个文件打开
 ![enter description here](https://s2.loli.net/2023/01/25/vswnXM2cFIT4xjV.png)
 打开之后,点击右上角的登录图标,然后用手机哔哩哔哩客户端登录
