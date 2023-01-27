@@ -5,8 +5,8 @@
 menu:
    主页: / || fas fa-home
    归档: /archives/ || fas fa-archive
-   Tags: /tags/ || fas fa-tags
-   Categories: /categories/ || fas fa-folder-open
+   标签: /tags/ || fas fa-tags
+   目录: /categories/ || fas fa-folder-open
    List||fas fa-list:
      Music: /music/ || fas fa-music
      Movie: /movies/ || fas fa-video
@@ -646,10 +646,10 @@ aside:
       enable: true
       icon: fab fa-github
       text: Follow Me
-      link: https://github.com/xxxxxx
+      link: https://github.com/jth445600
   card_announcement:
     enable: true
-    content: 爱生活
+    content: 欢迎来到云白科技
   card_recent_post:
     enable: true
     limit: 5 # if set 0 will show all
@@ -663,7 +663,7 @@ aside:
   card_tags:
     enable: true
     limit: 40 # if set 0 will show all
-    color: false
+    color: true
     sort_order: # Don't modify the setting unless you know how it works
   card_archives:
     enable: true
