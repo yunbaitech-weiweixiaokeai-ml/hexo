@@ -58,7 +58,7 @@ aside:
 
 在编辑框的下边有"重新生成"
 
-![image-20230127172839481](C:/Users/Anakin/AppData/Roaming/Typora/typora-user-images/image-20230127172839481.png)
+![image-20230127172839481](https://gitee.com/jth445600/picgo/raw/master/img/image-20230127172839481.png)
 
 如果对于结果不满意可以点一下重新生成.
 
