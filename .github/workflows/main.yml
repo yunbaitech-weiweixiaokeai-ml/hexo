@@ -13,7 +13,7 @@ jobs:
         submodules: true
 
     - name: Build and Deploy
-      uses: jth445600/hexo-deploy@master
+      uses: jth445600/hexo-deploy-github-pages-action@master
       env:
         PERSONAL_TOKEN: ${{ secrets.ACCESS_TOKEN }}
         PUBLISH_REPOSITORY: jth445600/blog # The repository the action should deploy to.
