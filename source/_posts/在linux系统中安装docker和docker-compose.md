@@ -36,20 +36,20 @@ aside:
 
 1. **更新、安装必备软件**
 
-```shell
+```bash
 apt-get update && apt-get install -y wget vim
 ```
 
 2. **一键安装脚本**
 
-```shell
+```bash
 sudo su  #获取root权限
 wget -qO- get.docker.com | bash
 ```
 
 3. **卸载docker**
 
-   ```shell
+   ```bash
    sudo apt-get purge docker-ce docker-ce-cli containerd.io
    sudo rm -rf /var/lib/docker
    sudo rm -rf /var/lib/containerd
@@ -59,14 +59,14 @@ wget -qO- get.docker.com | bash
 
 1. **docker一键安装脚本**
 
-```shell
+```bash
 sudo su # 获取root权限
 curl -sSL https://get.daocloud.io/docker | sh
 ```
 
 2. **卸载docker**
 
-```shell
+```bash
 sudo apt-get remove docker docker-engine
 sudo rm -rf /var/lib/docker/
 sudo rm -rf /var/lib/containerd
@@ -90,7 +90,7 @@ docker --version
 
    下列支持自动判断`CPU`架构, 并且默认安装最新版本.
 
-   ```shell
+   ```bash
    tag=$(wget -qO- -t1 -T2 "https://api.github.com/repos/docker/compose/releases/latest" | grep "tag_name" | head -n 1 | awk -F ":" '{print $2}' | sed 's/\"//g;s/,//g;s/ //g')
     sudo curl -L "https://github.com/docker/compose/releases/download/$tag/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
    sudo chmod +x /usr/local/bin/docker-compose
@@ -105,7 +105,7 @@ docker --version
 
 2. 卸载**docker-compose** 
 
-```shell
+```bash
 sudo rm -rf /usr/local/bin/docker-compose
 ```
 
@@ -115,7 +115,7 @@ sudo rm -rf /usr/local/bin/docker-compose
 
 ​	下列支持自动判断`CPU`架构, 并且默认安装最新版本.
 
-```shell
+```bash
 tag=$(wget -qO- -t1 -T2 "https://api.github.com/repos/docker/compose/releases/latest" | grep "tag_name" | head -n 1 | awk -F ":" '{print $2}' | sed 's/\"//g;s/,//g;s/ //g')
  sudo curl -L "https://ghproxy.com/https://github.com/docker/compose/releases/download/$tag/docker-compose-$(uname -s)-$(uname -m)" -o /usr/local/bin/docker-compose
 sudo chmod +x /usr/local/bin/docker-compose
@@ -128,7 +128,7 @@ docker-compose --version
 
 2. 卸载**docker-compose** 
 
-```shell
+```bash
 sudo rm -rf /usr/local/bin/docker-compose
 ```
 
