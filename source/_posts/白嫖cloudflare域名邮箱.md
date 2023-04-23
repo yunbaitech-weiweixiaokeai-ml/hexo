@@ -26,7 +26,7 @@ aside:
 
 # 白嫖cloudflare域名邮箱
 
-&#x20;      在上一期视频中,我们购买了namesilo的付费域名, 我们就可以利用这个域名来薅一些羊毛了, 第一个推荐的就是cloudflare的域名邮箱, 配置简单, 而且用起来还稳定. 当然了, 这里不一定是namesilo的付费域名, 你使用其他的一些域名都是可以的. 闲话少说, 我们开始今天的内容.
+在上一期视频中,我们购买了namesilo的付费域名, 我们就可以利用这个域名来薅一些羊毛了, 第一个推荐的就是cloudflare的域名邮箱, 配置简单, 而且用起来还稳定. 当然了, 这里不一定是namesilo的付费域名, 你使用其他的一些域名都是可以的. 闲话少说, 我们开始今天的内容.
 
 ### step 1 购买或领取一个域名
 
@@ -40,7 +40,7 @@ aside:
 
 注册过程比较简单, 有个邮箱能收验证码就可以了.
 
-![](https://ghproxy.com/https://github.com/jth445600/picgo/raw/main/小书匠/1679978869383.png)
+![](https://github.com/jth445600/picgo/raw/main/小书匠/1679978869383.png)
 
 后边的包括添加域名和设置name server的具体操作, 大家看一下上期视频就明白了.
 
@@ -50,15 +50,15 @@ aside:
 
 选择自己要配置的域名之后, 点击侧边栏上的`电子邮件`&#x20;
 
-![](https://ghproxy.com/https://github.com/jth445600/picgo/raw/main/小书匠/1679978869384.png)
+![](https://github.com/jth445600/picgo/raw/main/小书匠/1679978869384.png)
 
 进来之后, 会提示需要配置的`DNS`记录, 这个直接点击下面的`添加记录并启用` 就自动配置了, 可以看出cloudflare自动配置DNS还是很方便的.
 
-![](https://ghproxy.com/https://github.com/jth445600/picgo/raw/main/小书匠/1679978869393.png)
+![](https://github.com/jth445600/picgo/raw/main/小书匠/1679978869393.png)
 
 等一段时间之后, 就可以看到已经配置成功了.
 
-![enter description here](https://ghproxy.com/https://github.com/jth445600/picgo/raw/main/小书匠/1679978940342.png)
+![enter description here](https://github.com/jth445600/picgo/raw/main/小书匠/1679978940342.png)
 
 ### step 4 配置 Cloudflare Email Routing
 
@@ -66,19 +66,19 @@ aside:
 
 这里我们首先配置目标邮箱地址。填入目标邮箱地址后，目标邮箱会收到来自 Cloudflare 的验证邮件，点击邮件的链接，即可验证成功。
 
-![](https://ghproxy.com/https://github.com/jth445600/picgo/raw/main/小书匠/1679978869381.png)
+![](https://github.com/jth445600/picgo/raw/main/小书匠/1679978869381.png)
 
 Destination addresses 目标地址是同一 Cloudflare 账户下所有域名共享的。同一个 Cloudflare 账户下，如果你在配置域名 A 邮件转发的时候验证了邮件地址 <test@163.com> ，那配置域名 B 邮件转发时可以直接填入 <test@163.com>，无需再次验证。
 
 **4.2 Custom addresses 自定义地址**
 
-![](https://ghproxy.com/https://github.com/jth445600/picgo/raw/main/小书匠/1679978869382.png)
+![](https://github.com/jth445600/picgo/raw/main/小书匠/1679978869382.png)
 
 添加且验证目标邮箱后，在配置这里时，填入自己想使用的域名前缀，指向目标邮箱即可。
 
 **4.3 Catch-all address 所有邮箱地址**
 
-![](https://ghproxy.com/https://github.com/jth445600/picgo/raw/main/小书匠/1679978869394.png)
+![](https://github.com/jth445600/picgo/raw/main/小书匠/1679978869394.png)
 
 配置 Catch-all 后，无论邮箱前缀是什么，所有发给该域名的邮件都会转发到指定目标邮箱。
 
