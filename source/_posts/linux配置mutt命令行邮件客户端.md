@@ -39,7 +39,7 @@ sudo apt-get insall mutt msmtp
 set sendmail="/usr/bin/msmtp"
 set use_from=yes
 set realname="laptop" #发送邮件前显示的名字
-set from=jth445600@qq.com #邮箱账户
+set from=xxxxx@qq.com #邮箱账户
 set envelope_from=yes
 ```
 这里我使用的是qq邮箱, 139邮箱 和163/126邮箱都是可以的, 需要开启smtp服务, 139邮箱开启是免费的, 但是163和qq需要花0.1元短信钱
