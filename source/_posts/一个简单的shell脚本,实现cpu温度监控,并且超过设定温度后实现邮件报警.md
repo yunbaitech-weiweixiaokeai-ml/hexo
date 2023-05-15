@@ -1,5 +1,5 @@
 ---
-title: 一个简单的shell脚本,实现cpu温度监控,并且超过设定温度后实现邮件报警
+title: 一个shell脚本,实现cpu温度监控,并且超过设定温度后实现邮件报警
 date: 2023-5-15
 updated:
 tags: shell
