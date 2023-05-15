@@ -1,3 +1,28 @@
+---
+title: 一个简单的shell脚本,实现cpu温度监控,并且超过设定温度后实现邮件报警
+date: 2023-5-15
+updated:
+tags: shell
+categories:  vps
+keywords: cpu shell
+description:
+top_img: https://s1.ax1x.com/2023/05/15/p92K3SP.jpg
+comments:
+cover: https://s1.ax1x.com/2023/05/15/p92K3SP.jpg
+toc:
+toc_number:
+toc_style_simple:
+copyright:
+copyright_author:
+copyright_author_href:
+copyright_url:
+copyright_info:
+mathjax:
+katex:
+aplayer:
+highlight_shrink:
+aside:
+---
 ## 第一部分 安装mutt邮件客户端
 请跳转到该文章
 
