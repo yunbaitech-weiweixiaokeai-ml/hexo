@@ -29,6 +29,9 @@ aside:
 [linux配置mutt命令行邮件客户端](https://yunbaitech.top/2023/05/15/5592d7faa882/)
 
 ## 第二部分 配置shell脚本
+
+本文基于 Debian/Ubuntu系统
+
 新建一个名为 `check_temperature.sh` 的脚本
 ```bash
 sudo su
