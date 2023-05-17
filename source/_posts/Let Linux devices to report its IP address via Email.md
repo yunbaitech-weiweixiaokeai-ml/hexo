@@ -23,6 +23,9 @@ aplayer:
 highlight_shrink:
 aside:
 ---
+有问题请加电报群: https://t.me/yunbaitech_chat
+![enter description here](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/小书匠/1684292410640.png)
+
 很多本地的linux设备一般都是不接显示器的, 比如树莓派, 随身wifi刷的debian系统. 而且很多都是使用DHCP获取IP地址, 通常这种情况下都是去路由器后台查ip, 或者使用一些局域网设备扫描工具来实现.
 windows上可以使用advanced ip scanner
  ![image.png](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/小书匠/1684308473400.png)
@@ -83,3 +86,12 @@ sudo  su # 获取root用户
 update-rc.d send-ip-address.sh defaults
 ```
 这就搞定了, 每次开机的时候, 如果成功获取到Ip并联网的话, 会邮件提醒你内网IP地址.注意是有延迟, 得等一会.
+
+有问题请加电报群: https://t.me/yunbaitech_chat
+![enter description here](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/小书匠/1684292410640.png)
+
+参考文档:  https://windard.com/project/2015/11/11/Install-Msmtp-And-Mutt
+
+http://forum.eepw.com.cn/thread/258882/1/
+
+https://www.codelast.com/%e5%8e%9f%e5%88%9b-%e8%ae%a9%e6%a0%91%e8%8e%93%e6%b4%be%e8%87%aa%e5%8a%a8%e4%b8%8a%e6%8a%a5ip%e5%9c%b0%e5%9d%80%e5%88%b0%e9%82%ae%e7%ae%b1let-raspberry-pi-to-report-its-ip-address-via-email/
