@@ -28,7 +28,7 @@ aside:
 ### 一 安装
 这里演示用的是 ubuntu/debian 系统
 ```
-sudo apt-get insall mutt msmtp
+sudo apt-get install mutt msmtp
 ```
 ### 二 配置 msmtp和mutt
 
