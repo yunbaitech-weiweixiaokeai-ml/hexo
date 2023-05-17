@@ -24,6 +24,9 @@ highlight_shrink:
 aside:
 ---
 
+有问题请加电报群: https://t.me/yunbaitech_chat
+![enter description here](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/小书匠/1684292410640.png)
+
 ![](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/小书匠/1684291955377.jpg)
 这是一个9.9就能买到的， 4G USB 随身 Wi-Fi，你可能不会想到它居然跑的是安卓系统。并且还能刷 debian 系统，甚至你还能刷 openwrt 成为软路由，更棒的是 4G 和 Wi-Fi 、USB 等功能都正常工作。
 
@@ -141,3 +144,12 @@ nmtui
 
 到这个一步就连接网络了, 在ssh输入 `ping www.baidu.com`看看网络是否通了,然后就可以快乐的玩耍了. 
 
+有问题请加电报群: https://t.me/yunbaitech_chat
+![有问题请加电报群: https://t.me/yunbaitech_chat
+![enter description here](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/小书匠/1684292410640.png)
+enter description here](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/小书匠/1684292410640.png)
+
+参考资料: 	 https://sgqa.com/debian-docker/
+	https://qust.me/post/msm8916/
+
+https://www.bilibili.com/video/BV1ae4y1E7ws/?spm_id_from=333.880.my_history.page.click
