@@ -40,6 +40,8 @@ nmap -sP 192.168.1.0/24 # 此处假设局域网段位 192.168.1.0
 ```shell
 sudo su  # 获取root权限 , 以下所有操作均需要root权限
 if [ ! -f "/etc/init.d/send-ip-address.sh" ]; then touch /etc/init.d/send-ip-address.sh; fi
+```
+```bash 
 cat > /etc/init.d/send-ip-address.sh  <<-EOF
 #!/bin/bash
 # 先等20秒再执行脚本, 等设备获取到dhcp
@@ -68,7 +70,9 @@ else
 fi
 
 EOF
+```
 
+```bash
 chmod +x /etc/init.d/send-ip-address.sh
 vim  /etc/init.d/send-ip-address.sh
 ```
