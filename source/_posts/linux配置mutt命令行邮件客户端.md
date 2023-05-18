@@ -23,6 +23,10 @@ aplayer:
 highlight_shrink:
 aside:
 ---
+
+有问题请加电报群: https://t.me/yunbaitech_chat
+![enter description here](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/小书匠/1684292410640.png)
+
 配置命令行邮件客户端有很多作用, 最常见的就是邮件报警, 第一时间将linux设备的情况通过邮件发送出去. 
 本文中我使用的是qq邮箱, 当然139 163 126都可以的.
 ### 一 安装
