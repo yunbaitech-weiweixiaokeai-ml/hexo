@@ -23,6 +23,10 @@ aplayer:
 highlight_shrink:
 aside:
 ---
+
+有问题请加电报群: https://t.me/yunbaitech_chat
+![enter description here](https://cdn.jsdelivr.net/gh/jth445600/picgo@master/小书匠/1684292410640.png)
+
 ## 第一部分 安装mutt邮件客户端
 请跳转到该文章
 
