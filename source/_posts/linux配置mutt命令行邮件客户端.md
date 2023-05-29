@@ -54,6 +54,9 @@ set envelope_from=yes
 ```bash
 account default
 host smtp.qq.com # 所选邮箱的smtp 地址 
+tls on
+tls_starttls off 
+tls_certcheck off
 from xxxxxxx@qq.com
 auth plain
 user xxxxxxx@qq.com
